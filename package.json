@@ -1,5 +1,5 @@
 {
-  "name": "json-base64",
+  "name": "@somprasongd/json-base64",
   "version": "1.0.0",
   "description": "Convert json to base64 and base64 to json",
   "main": "index.js",
