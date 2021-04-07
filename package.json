@@ -1,0 +1,20 @@
+{
+  "name": "json-base64",
+  "version": "1.0.0",
+  "description": "Convert json to base64 and base64 to json",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/somprasongd/json-base64.git"
+  },
+  "keywords": [
+    "base64"
+  ],
+  "author": "Somprasong Damyos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/somprasongd/json-base64/issues"
+  },
+  "homepage": "https://github.com/somprasongd/json-base64#readme"
+}
